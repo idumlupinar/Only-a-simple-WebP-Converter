@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Image to WebP Converter
  * Description: A plugin to convert uploaded images to WebP and replace the original filename with the WebP filename.
- * Version: 1.0
+ * Version: 1.1
  * Author: Torsten Wenzel
  */
 
